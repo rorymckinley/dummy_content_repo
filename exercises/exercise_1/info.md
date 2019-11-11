@@ -7,5 +7,14 @@ For this exercise you will write a small shell script called `times_table.sh`. I
 
 ```
 > ./times_table.sh 5
-5 10 15 20 25 30 35 40 45 50
+5
+10
+15
+20
+25
+30
+35
+40
+45
+50
 ```
