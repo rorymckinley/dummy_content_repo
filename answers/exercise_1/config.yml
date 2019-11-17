@@ -1,5 +1,5 @@
 ---
-:marking:
-  :command:
-    :arguments:
+marking:
+  command:
+    arguments:
     - 8
